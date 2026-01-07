@@ -1,0 +1,25 @@
+# General Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Project Data and Artifacts
+Dataset/
+features/
+data/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
